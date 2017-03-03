@@ -9,4 +9,4 @@ Keep the comments positive.
 DON'T SHARE YOUR PERSONAL INFORMATION!
 
 
-This is strictly a learning site for those who don't know how to code. Please shae useful codes so these users can develope their skills.
+This is strictly a learning site for those who don't know how to code. Please share useful codes that you have learned so that these users can develope their skills.
