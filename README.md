@@ -1,5 +1,5 @@
 # Development-Code-Archive
-Store all your codes on this repository for safe keeping.
+Store all your codes on this repository for safe keeping. Store your code under the CODE STORAGE BRANCH.
 
 
 Rules:
